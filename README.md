@@ -5,6 +5,7 @@
 - [About Me](#about-me)
 - [General Information](#general-information)
 - [Prices](#prices)
+- [Portfolio](#portfolio)
 - [Terms and Conditions](#terms-and-conditions)
 
 ## About Me
@@ -57,6 +58,22 @@ Below is a general overview of my pricing. Final costs may vary depending on com
 | Bugfix / Adjustment           | Fix broken or unbalanced quests        | $5–15 |
 
 ---
+
+## Portfolio
+Here you can watch my portfolio in more detail https://discord.com/channels/407221862980911105/1096102431877763203
+
+| Preview | Description |
+|--------|-------------|
+| ![Daily Login Rewards](assets/daily_login.png) | **Daily Login Rewards** – A system to reward players each day they log in |
+| ![RPG Jobs](assets/rpg_jobs.png) | **RPG Jobs** – Inspired by Wynncraft; jobs with progression and rewards |
+| ![Instanced Jobs](assets/instanced_jobs.png) | **Instanced RPG Jobs** – Each player gets their own private version |
+| ![Bard System](assets/bard_system.png) | **Bard System** – Play music, perform, and charm crowds |
+| ![Bestiary](assets/bestiary.png) | **Bestiary** – Collect and view monster data |
+| ![Daily Quests](assets/daily_quests.png) | **Daily Quests** – Automatically rotating quests for engagement |
+| ![Mob Arena](assets/mob_arena.png) | **Mob Arena** – Wave-based combat with rewards |
+| ![Defend NPC](assets/defend_npc.png) | **Defend an NPC** – Escort and protect missions |
+| [![Fishing Quest](https://img.youtube.com/vi/8l4NN5NN1fk/0.jpg)](https://youtu.be/8l4NN5NN1fk) | **Fishing Quest (Video)** – Complete fishing challenges |
+| [![Blacksmith Forge](https://img.youtube.com/vi/jsnCPMw_YnE/0.jpg)](https://www.youtube.com/watch?v=jsnCPMw_YnE) | **Blacksmith Forge (Video)** – Forge items through interactive mechanics |
 
 
 ## Terms and Conditions
