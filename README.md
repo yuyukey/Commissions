@@ -3,9 +3,9 @@
 ## Contents
 
 - [About Me](#about-me)
-- [General Information](#information)
+- [General Information](#general-information)
 - [Prices](#prices)
-- [Terms and Conditions](#terms)
+- [Terms and Conditions](#terms-and-conditions)
 
 ## About Me
 
@@ -34,7 +34,7 @@ I prefer to just bring your own dialogues to life because you know best what you
 - Bug fixing or polishing existing quests
 - Mechanics or Minigames
 
-## Prices 💰
+## Prices
 
 Below is a general overview of my pricing. Final costs may vary depending on complexity, length, and required implementation. We definitely need to talk about the final prices for a commission.
 
@@ -57,3 +57,43 @@ Below is a general overview of my pricing. Final costs may vary depending on com
 | Bugfix / Adjustment           | Fix broken or unbalanced quests        | $5–15 |
 
 ---
+
+
+## Terms and Conditions
+
+Please read the following terms carefully before commissioning any work. By hiring me, you agree to these terms.
+
+### 🔒 Payment & Refunds
+- Payment is usually handled **via PayPal** after confirming the project scope.
+- Payment is always upfront. If you don't trust me then we can have a middleman
+- Refunds are **only possible before the actual writing or implementation begins.** Once work has started, refunds are no longer guaranteed.
+
+### 🧠 Creative Ownership & Reuse
+
+- You may use the commissioned work **freely** on your server or project, including modifying it to fit your needs.
+- However, **you do not gain exclusive ownership** of the work unless this is explicitly agreed on.
+- I reserve the right to **reuse, adapt, or resell** parts of the commissioned work (e.g. generic mechanics, quest structures, or templates) in future projects or public releases.
+- If you require exclusive rights to your commission (so it won’t be shared or resold in any form), this must be discussed **before** the work begins and will likely come at a higher price.
+
+### 🔧 Revisions
+- Small revisions (typos, minor logic errors) are **included** in the commission price.
+- Larger changes (e.g. rewriting dialogue or mechanics due to changed ideas) may incur an **additional charge**. (But most of the time its fine for me..)
+- You are encouraged to give **clear feedback early** in the process to avoid revision costs.
+- Bugfixing is for free but it is limited. After I have delivered the package to you I will fixing bugs for free for ONE month.
+- I am not updating quest packages to a newer version of BetonQuest for free. But you can talk to me because I am also interested in updateing my things, so it might be free.
+
+### 🕓 Deadlines & Delivery
+- I will give you a realistic estimate for delivery time depending on the scope of your commission.
+- If you have a strict deadline, **please let me know upfront.**
+- You’ll receive regular updates and previews of progress.
+- I will also stay in contact with you the whole time to ask questions and to make clear what you really want.
+
+### 🚫 What I won’t do
+- I will **not write or implement** anything that includes hate speech, explicit NSFW content, or violates the Minecraft EULA / other legal guidelines.
+- I also reserve the right to decline any commission I’m not comfortable with.
+- I will **not provide free bug fixes** except for customers who have purchased a product within the last 30 days.
+
+---
+
+If you have any questions or want to clarify something before we start, feel free to ask. I'm always happy to discuss details and make sure we’re on the same page! 😊
+
