@@ -57,7 +57,7 @@ Below is a general overview of my pricing. Final costs may vary depending on com
 |--------------------------------|----------------------------------------|--------|
 | Installation                   | Integrate the quest into your system     | Depends but mostly FREE   |
 | Bugfix / Adjustment           | Fix broken or unbalanced quests        | 5–15 € |
-| Updating to newest version           | Updating your quests/mechanics to the newest version        | depending |
+| Updating to newest version           | Updating your quests/mechanics to the newest version        | depends |
 
 ---
 
