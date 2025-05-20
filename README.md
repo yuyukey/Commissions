@@ -32,8 +32,9 @@ I prefer to just bring your own dialogues to life because you know best what you
 🛠️ Services include (but are not limited to):
 - Quest writing (main storylines, side quests, dialogue trees, mechanics)
 - Implementation & installation into your server
-- Bug fixing or polishing existing quests
+- Bug fixing or polishing existing quests (Scripting Bugs)
 - Mechanics or Minigames
+- My direct native language contact to developers are speeding up bugfixes and discussions
 
 ## Prices
 
@@ -54,8 +55,9 @@ Below is a general overview of my pricing. Final costs may vary depending on com
 
 | Service                        | Description                            | Price |
 |--------------------------------|----------------------------------------|--------|
-| Basic Setup                   | Integrate a quest into your system     | Depends but mostly FREE   |
-| Bugfix / Adjustment           | Fix broken or unbalanced quests        | $5–15 |
+| Installation                   | Integrate the quest into your system     | Depends but mostly FREE   |
+| Bugfix / Adjustment           | Fix broken or unbalanced quests        | 5–15 € |
+| Updating to newest version           | Updating your quests/mechanics to the newes version        | depending |
 
 ---
 
