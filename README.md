@@ -66,16 +66,17 @@ Here you can watch my portfolio in more detail https://discord.com/channels/4072
 
 | Preview | Description |
 |--------|-------------|
-| ![Daily Login Rewards](https://discord.com/channels/407221862980911105/1226207316412465253) | **Daily Login Rewards** – A system to reward players each day they log in |
-| ![RPG Jobs](assets/rpg_jobs.png) | **RPG Jobs** – Inspired by Wynncraft; jobs with progression and rewards |
-| ![Instanced Jobs](assets/instanced_jobs.png) | **Instanced RPG Jobs** – Each player gets their own private version |
-| ![Bard System](assets/bard_system.png) | **Bard System** – Play music, perform, and charm crowds |
-| ![Bestiary](assets/bestiary.png) | **Bestiary** – Collect and view monster data |
-| ![Daily Quests](assets/daily_quests.png) | **Daily Quests** – Automatically rotating quests for engagement |
-| ![Mob Arena](assets/mob_arena.png) | **Mob Arena** – Wave-based combat with rewards |
-| ![Defend NPC](assets/defend_npc.png) | **Defend an NPC** – Escort and protect missions |
-| [![Fishing Quest](https://img.youtube.com/vi/8l4NN5NN1fk/0.jpg)](https://youtu.be/8l4NN5NN1fk) | **Fishing Quest (Video)** – Complete fishing challenges |
 | [![Blacksmith Forge](https://img.youtube.com/vi/jsnCPMw_YnE/0.jpg)](https://www.youtube.com/watch?v=jsnCPMw_YnE) | **Blacksmith Forge (Video)** – Forge items through interactive mechanics |
+| https://discord.com/channels/407221862980911105/1226207316412465253 | **Daily Login Rewards** – A system to reward players each day they log in |
+| https://discord.com/channels/407221862980911105/1136218611661410334 | **RPG Jobs** – Inspired by Wynncraft; jobs with progression and rewards |
+| https://discord.com/channels/407221862980911105/1191828404618674186 | **Instanced RPG Jobs** – Each player gets their own private version |
+| https://discord.com/channels/407221862980911105/1282324829818847242 | **Bard System** – Play music, perform, and charm crowds |
+| https://discord.com/channels/407221862980911105/1134933117036138517 | **Bestiary** – Collect and view monster data |
+| https://discord.com/channels/407221862980911105/1124647638151725098 | **Daily Quests** – Automatically rotating quests for engagement |
+| https://discord.com/channels/407221862980911105/1101808609538625647 | **Mob Arena** – Wave-based combat with rewards |
+| https://discord.com/channels/407221862980911105/1098931654719979570 | **Defend an NPC** – Escort and protect missions |
+| [![Fishing Quest](https://img.youtube.com/vi/8l4NN5NN1fk/0.jpg)](https://youtu.be/8l4NN5NN1fk) | **Fishing Quest (Video)** – Complete fishing challenges |
+
 
 
 ## Terms and Conditions
