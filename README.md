@@ -66,7 +66,7 @@ Here you can watch my portfolio in more detail https://discord.com/channels/4072
 
 | Preview | Description |
 |--------|-------------|
-| ![Daily Login Rewards](assets/daily_login.png) | **Daily Login Rewards** – A system to reward players each day they log in |
+| ![Daily Login Rewards](https://discord.com/channels/407221862980911105/1226207316412465253) | **Daily Login Rewards** – A system to reward players each day they log in |
 | ![RPG Jobs](assets/rpg_jobs.png) | **RPG Jobs** – Inspired by Wynncraft; jobs with progression and rewards |
 | ![Instanced Jobs](assets/instanced_jobs.png) | **Instanced RPG Jobs** – Each player gets their own private version |
 | ![Bard System](assets/bard_system.png) | **Bard System** – Play music, perform, and charm crowds |
