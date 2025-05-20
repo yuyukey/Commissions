@@ -98,7 +98,7 @@ Please read the following terms carefully before commissioning any work. By hiri
 - Small revisions (typos, minor logic errors) are **included** in the commission price.
 - Larger changes (e.g. rewriting dialogue or mechanics due to changed ideas) may incur an **additional charge**. (But most of the time its fine for me..)
 - You are encouraged to give **clear feedback early** in the process to avoid revision costs.
-- Bugfixing is for free but it is limited. After I have delivered the package to you I will fixing bugs for free for ONE month.
+- Bugfixing is for free but it is limited. After I have delivered the package to you I will fixing bugs for free for ONE month and only for the current version.
 - I am not updating quest packages to a newer version of BetonQuest for free. But you can talk to me because I am also interested in updateing my things, so it might be free.
 
 ### 🕓 Deadlines & Delivery
