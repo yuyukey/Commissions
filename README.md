@@ -10,7 +10,7 @@
 
 ## About Me
 
-Hi! 👋 I'm **Yuyukey**, a passionate quest designer and staff of the BetonQuest Team.  
+Hi! 👋 I'm **Yuyukey**, a passionate quest designer and staff of the BetonQuest Team.
 I specialize in creating immersive, story-driven quests that bring worlds to life — whether you're looking for an emotional journey, an epic challenge, or a quirky side adventure.
 
 🎮 I offer:
