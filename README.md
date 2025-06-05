@@ -66,6 +66,7 @@ Here you can watch my portfolio in more detail https://discord.com/channels/4072
 
 | Preview | Description |
 |--------|-------------|
+| [![Sawmill Foraging](https://img.youtube.com/vi/Q_JZNqFpHn0/0.jpg)](https://www.youtube.com/watch?v=Q_JZNqFpHn0) | **Working Sawmill in action!** – Logpiles and planks through a sawmmill! |
 | [![Blacksmith Forge](https://img.youtube.com/vi/jsnCPMw_YnE/0.jpg)](https://www.youtube.com/watch?v=jsnCPMw_YnE) | **Blacksmith Forge (Video)** – Forge items through interactive mechanics |
 | https://discord.com/channels/407221862980911105/1226207316412465253 | **Daily Login Rewards** – A system to reward players each day they log in |
 | https://discord.com/channels/407221862980911105/1136218611661410334 | **RPG Jobs** – Inspired by Wynncraft; jobs with progression and rewards |
